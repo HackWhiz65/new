@@ -157,9 +157,8 @@ div.whole{
 
 }
 body {
-    background-image: url('hp.jpg');
-    background-size:cover;
+    background-color:rgb(111, 173, 227);
+    background-size:100%;
     background-repeat: no-repeat;
-    background-position: center;
 
 }
